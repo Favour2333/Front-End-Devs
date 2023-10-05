@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "version": "2.2",
   "name": "Leads tracker",
   "actions": {

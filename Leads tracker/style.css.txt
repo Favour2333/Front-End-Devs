@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 15px;
+  min-width: 400px;
+}
+
+input {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 4px;
+  border: 1px solid #5f9345;
+  box-sizing: border-box;
+  outline: none;
+}
+
+button {
+  color: #ffff;
+  padding: 10px 20px;
+  text-align: center;
+  background: rgb(1, 143, 1);
+  border: none;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 20px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li{
+  margin-top: 5px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+li a{
+  color: rgb(1, 143, 1);
+}

@@ -1,9 +1,14 @@
 {
-  "manifest_version": 2,
-  "version": "2.2",
-  "name": "Leads tracker",
-  "actions": {
-    "default_popup": "index.html",
-    "default_icon": "icon.png"
-  }
+    "manifest_version": 3,
+    "version": "1.0.1",
+    "name": "Leads tracker",
+    "icon": {
+        "48": "images/icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "48": "images/icon.png"
+        },
+        "default_title": "Leads tracker"
+    }
 }

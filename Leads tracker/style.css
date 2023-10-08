@@ -39,3 +39,10 @@ li{
 li a{
   color: rgb(1, 143, 1);
 }
+
+#delete-btn {
+  background-color: rgb(255, 255, 255);
+  color: rgb(1, 143, 1);
+  border: 0.5px solid rgb(1, 143, 1);
+  margin-left: 15px;
+}
